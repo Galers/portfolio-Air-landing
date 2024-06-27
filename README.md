@@ -34,20 +34,30 @@
 
 - Slider
   - 4 images that were found on Unsplash.
+  <p align="center">
+    <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Slider_Air.gif">
+  </p>
 
 4. "Who are we" block.
 5. Our expert block:
 
    - Reused the card design three times.
+   <p align="center">
+       <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Cards.gif">
+    </p>
 
 6. Process block
+   The position of this block was designed using the powerful grid tool. A `grid` was developed `grid-template-columns: repeat(12, 58px)`. Which was reduced as needed.
 
-- Added four technology cards.
+   - Added four technology cards.
+   <p align="center">
+       <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Grid-cards.jpg">
+    </p>
 
 7. Feedback unit
 8. Vision, passion, block of results:
 
-   - Used the background image from the GitHub link provided.
+   - Used the background image from the [GitHub](https://github.com/mate-academy/layout_dia/blob/master/src/images/Shapes.png) link provided.
 
 9. Send us a message block
 10. Block contacts
