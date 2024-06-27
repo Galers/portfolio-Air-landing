@@ -16,7 +16,7 @@
 
 <img align="center" src="./Main screen.png">
 
-[**The AIR**](https://galers.github.io/portfolio-Air-landing/) landing page project involves the implementation of a responsive landing page based on [Figma design](<https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35>). The implementation was carried out using the _BEM_ (Block Element Modifier) methodology and _SCSS_ for styling. The page was _adapted_ to different screen sizes, which ensured an optimal user experience on all devices.
+[**The AIR**](https://galers.github.io/portfolio-Air-landing/) landing page project involves the implementation of a **responsive** and **Pixel Perfect** landing page based on [Figma design](<https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35>). The implementation was carried out using the **BEM** (Block Element Modifier) methodology and **SCSS** for styling. The page was **adapted** to different screen sizes, which ensured an optimal user experience on all devices.
 
 ### Screen Adaptations:
 
@@ -29,7 +29,7 @@
 
 ### Components for implementation:
 
-1. Cap with navigation
+1. Header with navigation.
 2. Block of strategic agencies:
 
 - Slider
@@ -46,7 +46,7 @@
        <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Cards.gif">
     </p>
 
-6. Process block
+6. Process block:
    The position of this block was designed using the powerful grid tool. A `grid` was developed `grid-template-columns: repeat(12, 58px)`. Which was reduced as needed.
 
    - Added four technology cards.
@@ -54,14 +54,34 @@
        <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Grid-cards.jpg">
     </p>
 
-7. Feedback unit
+7. Testimonals block.
 8. Vision, passion, block of results:
 
    - Used the background image from the [GitHub](https://github.com/mate-academy/layout_dia/blob/master/src/images/Shapes.png) link provided.
 
-9. Send us a message block
-10. Block contacts
-11. Footer
+9. Send us a message block.
+
+   - Form for sending a message.
+
+     - You must specify your email and message.
+
+   - After pressing the button **SEND** or `ENTER`. The form will be _sent_, the input field will be _cleared_.
+   <p align="center">
+      <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Form_Air.gif">
+    </p>
+
+10. Block contacts.
+
+    - [Call link](tel:654321987).
+    - [Google map link](https://maps.app.goo.gl/Bh8r4kVKMdwvsb5e6).
+    - Links to social networks
+      - [facebook](https://www.facebook.com/)
+      - [X](https://x.com/home)
+      - [facebook](https://www.facebook.com/)
+
+11. Footer.
+12. Dialog.
+    - Burger menu, which can be activated on screens > `640px`.
 
 ## Technologies:
 
@@ -79,7 +99,8 @@ The following functions were implemented using JS:
 - When the burger menu is activated, the scroll disappears;
 - Closing the menu by clicking on link.
 
-3. SCSS
+3. CSS
+4. SCSS
 
 - The styling of the entire page is handled using the SCSS preprocessor, allowing for more modular and maintainable CSS with features like variables, nested rules, and mixins.
 
