@@ -1,0 +1,31 @@
+@font-face {
+  font-family: $t-ff-pop;
+  src: url("../fonts/Poppins-SemiBold.woff2") format("woff2");
+  font-weight: $t-fw-600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $t-ff-pop;
+  src: url("../fonts/Poppins-Bold.woff2") format("woff2");
+  font-weight: $t-fw-700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $t-ff-open-sans;
+  src: url("../fonts/OpenSans.woff2") format("woff2");
+  font-weight: $t-fw-400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: $t-ff-open-sans;
+  src: url("../fonts/OpenSans-SemiBold.woff2") format("woff2");
+  font-weight: $t-fw-600;
+  font-style: normal;
+  font-display: swap;
+}

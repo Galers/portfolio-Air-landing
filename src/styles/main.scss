@@ -1,3 +1,19 @@
-body {
-  margin: 0;
-}
+@import "utils", "fonts", "global", "normalize";
+@import "./blocks/button";
+@import "./blocks/logo";
+@import "./blocks/burger-button";
+@import "./blocks/header";
+@import "./blocks/content";
+@import "./blocks/about";
+@import "./blocks/card-service";
+@import "./blocks/services";
+@import "./blocks/expertise";
+@import "./blocks/testimonials";
+@import "./blocks/person-card";
+@import "./blocks/results";
+@import "./blocks/contacts";
+@import "./blocks/footer";
+@import "./blocks/cross-button";
+@import "./blocks/tablet-overlay";
+@import "./blocks/strategic-agency";
+@import "./blocks/slider";

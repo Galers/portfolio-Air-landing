@@ -1,0 +1,5 @@
+.logo {
+  @include hover {
+    filter: var(--filter-blue);
+  }
+}
