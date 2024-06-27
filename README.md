@@ -4,12 +4,6 @@
 
 </div>
 
-## Project Description:
-
-<img align="center" src="./Main screen.png">
-
-**The AIR** landing page project involves the implementation of a responsive landing page based on [Figma design](<https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35>). The implementation was carried out using the _BEM_ (Block Element Modifier) methodology and _SCSS_ for styling. The page was _adapted_ to different screen sizes, which ensured an optimal user experience on all devices.
-
 ## Link by layout page
 
 [DEMO LINK](https://galers.github.io/portfolio-Air-landing/)
@@ -17,6 +11,47 @@
 ## Link by figma design
 
 [Figma design](<https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35>)
+
+## Project Description:
+
+<img align="center" src="./Main screen.png">
+
+[**The AIR**](https://galers.github.io/portfolio-Air-landing/) landing page project involves the implementation of a responsive landing page based on [Figma design](<https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35>). The implementation was carried out using the _BEM_ (Block Element Modifier) methodology and _SCSS_ for styling. The page was _adapted_ to different screen sizes, which ensured an optimal user experience on all devices.
+
+### Screen Adaptations:
+
+- Large screens 2560px
+- The design 1600px
+- Desktop 1280px
+- Small desktop 1024px
+- Tablet 640px
+- Mobile (> 320px)
+
+### Components for implementation:
+
+1. Cap with navigation
+2. Block of strategic agencies:
+
+- Slider
+  - 4 images that were found on Unsplash.
+
+4. "Who are we" block.
+5. Our expert block:
+
+   - Reused the card design three times.
+
+6. Process block
+
+- Added four technology cards.
+
+7. Feedback unit
+8. Vision, passion, block of results:
+
+   - Used the background image from the GitHub link provided.
+
+9. Send us a message block
+10. Block contacts
+11. Footer
 
 ## Technologies:
 
@@ -38,22 +73,13 @@ The following functions were implemented using JS:
 
 - The styling of the entire page is handled using the SCSS preprocessor, allowing for more modular and maintainable CSS with features like variables, nested rules, and mixins.
 
-### Screen Adaptations:
-
-- Large screens 2560px
-- The design 1600px
-- Desktop 1280px
-- Small desktop 1024px
-- Tablet 640px
-- Mobile (> 320px)
-
 ## Launch Instructions
 
 ### Prerequisites
 
 1. Ensure you have the following installed on your machine:
 
-- Node.js (v12 or higher)
+- Node.js (v12 or v14)
 - npm (v6 or higher)
 
 ### Get the initial code
