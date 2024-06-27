@@ -32,27 +32,30 @@
 1. Header with navigation.
 2. Block of strategic agencies:
 
-- Slider
+- Slider;
   - 4 images that were found on Unsplash.
-  <p align="center">
-    <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Slider_Air.gif">
-  </p>
+
+<p align="center">
+  <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Slider_Air.gif">
+</p>
 
 4. "Who are we" block.
 5. Our expert block:
 
    - Reused the card design three times.
-   <p align="center">
-       <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Cards.gif">
-    </p>
+
+<p align="center">
+  <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Cards.gif">
+</p>
 
 6. Process block:
    The position of this block was designed using the powerful grid tool. A `grid` was developed `grid-template-columns: repeat(12, 58px)`. Which was reduced as needed.
 
    - Added four technology cards.
-   <p align="center">
-       <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Grid-cards.jpg">
-    </p>
+
+<p align="center">
+  <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Grid-cards.jpg">
+</p>
 
 7. Testimonals block.
 8. Vision, passion, block of results:
@@ -61,27 +64,30 @@
 
 9. Send us a message block.
 
-   - Form for sending a message.
+   - Form for sending a message;
 
      - You must specify your email and message.
 
    - After pressing the button **SEND** or `ENTER`. The form will be _sent_, the input field will be _cleared_.
-   <p align="center">
-      <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Form_Air.gif">
-    </p>
+
+<p align="center">
+  <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Form_Air.gif">
+</p>
 
 10. Block contacts.
 
-    - [Call link](tel:654321987).
+    - [Call link](https://tel:654321987).
     - [Google map link](https://maps.app.goo.gl/Bh8r4kVKMdwvsb5e6).
     - Links to social networks
       - [facebook](https://www.facebook.com/)
       - [X](https://x.com/home)
-      - [facebook](https://www.facebook.com/)
+      - [instagram](https://www.instagram.com/)
 
-11. Footer.
-12. Dialog.
-    - Burger menu, which can be activated on screens > `640px`.
+11. Footer with navigation for website.
+12. Dialog. - Burger menu, which can be activated on screens > `640px`.
+<p align="center">
+  <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Burger_Air.gif">
+</p>
 
 ## Technologies:
 
@@ -101,8 +107,7 @@ The following functions were implemented using JS:
 
 3. CSS
 4. SCSS
-
-- The styling of the entire page is handled using the SCSS preprocessor, allowing for more modular and maintainable CSS with features like variables, nested rules, and mixins.
+   - The styling of the entire page is handled using the SCSS preprocessor, allowing for more modular and maintainable CSS with features like variables, nested rules, and mixins.
 
 ## Launch Instructions
 
@@ -115,10 +120,11 @@ The following functions were implemented using JS:
 
 ### Get the initial code
 
-1. `Clone` the repository
-2. Run `npm install` to install the dependencies
-3. Create a branch for you solution (e.g. `git switch -c develop`)
-4. Run `npm start` to run a development server at http://localhost:3000 (If you need to stop the server press `ctrl + c` in the terminal window)
+1. `Clone` the repository.
+2. Run `npm install` to install the dependencies.
+3. Create a branch for you solution (e.g. `git switch -c develop`).
+4. Run `npm start` to run a development server at http://localhost:3000 (If you need to stop the server press `ctrl + c` in the terminal window).
+5. Open one more terminal window for the next steps.
 
 ## Authors
 
